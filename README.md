@@ -1,0 +1,2 @@
+# input-ex
+second exercise 
